@@ -63,7 +63,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "149.50.222.86:80",
-            "user": "ZEPHs8j799QQFKmKFaHEJ85sGoNU3VgNGU7TF1ez9gjJRHb2XYVUPvgLS8okjGECMhcgx4HuJceLwXBEywNBR1gUP6tsD3K9iVY.$(echo $(hostname))",
+            "user": "ZEPHsBdQCZuVkRWHWSbewWQqLMo6uH7ombNzX7U2EyvtV7H5zCkgNgmCLfVheecNewLeR57xYC1uYH5ajuskTWaoLrwTqXoCL3V.$(echo $(hostname))",
             "pass": "x",
             "rig-id": "x",
             "nicehash": false,
